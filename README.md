@@ -1,2 +1,2 @@
 # node-boilerplate
-Example server from a nu developer
+Example server from a new developer
